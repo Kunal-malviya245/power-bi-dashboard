@@ -1,24 +1,38 @@
+# 📊 Power BI Dashboard Project
 
-# Power BI Dashboard Project
-
-## 📊 Project Title
+## 📌 Project Title
 HR Analytics Dashboard
 
 ## 📝 Description
-This Power BI dashboard analyzes employee data including
-attrition, department-wise count, salary analysis, and performance.
+This Power BI dashboard provides insights into employee data, including:
+- Employee attrition analysis  
+- Department-wise employee distribution  
+- Salary analysis  
+- Performance overview  
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
+The dashboard helps HR teams make data-driven decisions by visualizing key workforce metrics.
 
 ## 🛠 Tools Used
-- Power BI Desktop
-- MS Excel / CSV
+- Power BI Desktop  
+- MS Excel / CSV  
 
-## 📁 Files
-- HR_Dashboard.pbix
-- hr_data.csv
+## 📁 Files in this Repository
+- **Power Bi project.pbix** – Power BI dashboard file  
+- **dashboard.png** – Dashboard preview image  
+- **README.md** – Project documentation  
 
-## 🔗 Live Dashboard
-https://app.powerbi.com/view?r=XXXXX
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
+## 🔗 Live Dashboard (Optional)
+https://app.powerbi.com/view?r=PASTE_YOUR_REAL_LINK_HERE
+
+## 🎯 Key Learnings
+- Data cleaning and transformation  
+- Creating interactive visuals and slicers  
+- Designing user-friendly dashboards  
+- Publishing and documenting projects on GitHub  
+
+## 👤 Author
+**Kunal Malviya**  
+Final Year Student | Power BI Learner
